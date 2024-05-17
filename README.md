@@ -79,11 +79,13 @@ plt.show()
 
 ```
 ### OUTPUT:
-![output](./o1.png)
-![output](./o2.png)
-![output](./o3.png)
-![output](./o4.png)
-![output](./o5.png)
+![image](https://github.com/kiran03-jagadeesh/TSA_EXP10/assets/94174536/ce3e6e09-9182-489c-a0de-4429db577562)
+![image](https://github.com/kiran03-jagadeesh/TSA_EXP10/assets/94174536/c01a102f-7073-429c-a6ce-5335a84b2afb)
+![image](https://github.com/kiran03-jagadeesh/TSA_EXP10/assets/94174536/c0d5c7b7-7180-4143-a9db-36871f833407)
+![image](https://github.com/kiran03-jagadeesh/TSA_EXP10/assets/94174536/f5e2bf2e-f1cf-44f2-85c7-a90f7b452dbd)
+
+
+
 ### RESULT:
 Thus the program run successfully based on the SARIMA model.
 
